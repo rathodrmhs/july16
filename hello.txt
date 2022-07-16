@@ -1,2 +1,5 @@
 this is raj
 line 2 added
+
+  git config --global user.email "rathodrmhs@yahoo.com"
+  git config --global user.name "Raj"
